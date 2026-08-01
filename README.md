@@ -1,7 +1,14 @@
-<img src="assets/banner.png" alt="ForkedInTime — Rust and Linux systems tooling" width="100%">
+<img src="assets/banner.png" alt="ForkedInTime — Telecom, contact center, agentic AI" width="100%">
 
-I make software run where it wasn't meant to. Windows-only games ported native to Linux, and tools that
-shipped as a dependency tree rebuilt as a single binary.
+**The copper is going. The AI is arriving. I speak both.**
+
+I run [KuberEva](https://kubereva.ai), an independent practice for carriers and enterprise
+contact centers moving off POTS, T1, PRI and SS7 onto SIP, CCaaS and agentic AI. I have run the
+trunks, and I evaluate the agents replacing the people who answered them. Most firms know one
+end of that migration — the whole job lives in between.
+
+The repos here are the engineering half of the same instinct: make software run where it
+wasn't meant to.
 
 ## Building
 
@@ -24,9 +31,9 @@ install the Tux Edition alpha.
 
 ## Working in
 
-Rust · C · C++ · Python · TypeScript · Shell
+**Practice** — SIP · SBC · SS7 · PRI · CCaaS · conversational and agentic AI
 
-Mostly Linux — desktop, GPU pipelines, and self-hosted infrastructure.
+**Code** — Rust · C · C++ · Python · TypeScript · Shell, mostly on Linux
 
 ## Elsewhere
 
