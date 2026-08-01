@@ -29,6 +29,11 @@ team's work.
 The KeeperFX team's settings launcher, patched to drive the native engine instead of a Wine prefix and to
 install the Tux Edition alpha.
 
+## Contributed upstream
+
+**[rainlizard/Unearth](https://github.com/rainlizard/Unearth/pull/119)** — taught the Dungeon Keeper
+map editor to launch the native Linux KeeperFX engine directly instead of going through Wine. Merged.
+
 ## Working in
 
 **Practice** — SIP · SBC · SS7 · PRI · CCaaS · conversational and agentic AI
