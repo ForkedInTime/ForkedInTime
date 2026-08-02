@@ -1,13 +1,14 @@
 <img src="assets/banner.png" alt="ForkedInTime — Telecom, contact center, agentic AI" width="100%">
 
-**The copper is going. The AI is arriving. I speak both.**
+In March 2026 the FCC accelerated copper retirement. Wire center by wire center, on a
+31-day clock, the network your elevator phones, fire panels and PRI trunks still ride on
+is being switched off.
 
-I run [KuberEva](https://kubereva.ai), an independent practice for carriers and enterprise
-contact centers moving off POTS, T1, PRI and SS7 onto SIP, CCaaS and agentic AI. I have run the
-trunks, and I evaluate the agents replacing the people who answered them. Most firms know one
-end of that migration — the whole job lives in between.
+I have run those trunks — POTS, T1, PRI, SS7. I also evaluate the agentic AI replacing the
+people who answered them. Most practitioners know one end of that migration; the whole job
+lives in between, and that gap is what [KuberEva](https://kubereva.ai) exists for.
 
-The repos here are the engineering half of the same instinct: make software run where it
+The repos below are the engineering half of the same instinct: make software run where it
 wasn't meant to.
 
 ## Building
